@@ -1,7 +1,0 @@
-echo "body{font-family:Arial;} header a{margin-right:8px;}" > pages/static/css/style.css
-
-img {
-  display: block;
-  margin: 20px auto;
-  border-radius: 10px;
-}
